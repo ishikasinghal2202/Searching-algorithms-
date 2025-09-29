@@ -86,7 +86,7 @@ There are two broad categories of searching algorithms:
 
 Searching Algorithm (General)
 
-        +------------------+
+ +------------------+
 |  Start Program   |
 +------------------+
          |
