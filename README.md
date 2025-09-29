@@ -4,19 +4,19 @@
 ===================================================================
 
 ---------------------------
-          AIM
+  AIM
 ---------------------------
 To study, understand, and implement various searching algorithms in C++,
 analyze their working principles, compare their efficiency, and 
 conclude the best suitable algorithm under different scenarios.
 
 ---------------------------
-     SOFTWARE USED
+SOFTWARE USED
 ---------------------------
 1.VS code
 
 ---------------------------
-       OBJECTIVES
+ OBJECTIVES
 ---------------------------
 1. To implement searching algorithms in C++.
 2. To understand linear and binary searching techniques.
@@ -25,7 +25,7 @@ conclude the best suitable algorithm under different scenarios.
 5. To conclude which algorithm works best under given conditions.
 
 ---------------------------
-         THEORY
+THEORY
 ---------------------------
 Searching algorithms are fundamental techniques used to locate a 
 specific element within a collection of data such as arrays, 
@@ -69,7 +69,7 @@ There are two broad categories of searching algorithms:
    - Space Complexity: O(1).
 
 ---------------------------
-         TABLES
+  TABLES
 ---------------------------
 
 | Algorithm           | Best Case | Worst Case | Space Complexity | Data Requirement |
@@ -81,7 +81,7 @@ There are two broad categories of searching algorithms:
 | Exponential Search  | O(log n)  | O(log n)   | O(1)             | Sorted           |
 
 ---------------------------
-        FLOWCHART
+ FLOWCHART
 ---------------------------
 
 Searching Algorithm (General)
@@ -89,13 +89,17 @@ Searching Algorithm (General)
  +------------------+
 |  Start Program   |
 +------------------+
+
          |
          v
+         
 +------------------+
 |   Input Array    |
 +------------------+
+
          |
          v
+         
 +------------------+
 | Enter Key Value  |
 +------------------+
