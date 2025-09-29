@@ -82,7 +82,7 @@ There are two broad categories of searching algorithms:
 
 
 ---------------------------
-       ALGORITHM
+ALGORITHM
 ---------------------------
 
 Example: Binary Search Algorithm
@@ -99,7 +99,7 @@ Step 5: If not found, return "Element not found".
 Step 6: Stop.  
 
 ---------------------------
-       CONCLUSION
+CONCLUSION
 ---------------------------
 1. Linear Search is simple but inefficient for large data.  
 2. Binary Search is efficient and widely used on sorted data.  
